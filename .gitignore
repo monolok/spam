@@ -2,3 +2,4 @@
 512D_100epochs.keras
 vectors.tsv
 metadata.tsv
+tokenizer.pickle
