@@ -1,6 +1,6 @@
-#16D_20epochs.keras
+16D_20epochs.keras
 512D_100epochs.keras
 vectors.tsv
 metadata.tsv
-#tokenizer.pickle
+tokenizer.pickle
 bert.keras
