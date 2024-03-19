@@ -3,3 +3,4 @@
 vectors.tsv
 metadata.tsv
 tokenizer.pickle
+bert.keras
